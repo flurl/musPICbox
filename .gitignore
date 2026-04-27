@@ -1,0 +1,54 @@
+# MPLAB X build output
+build/
+dist/
+debug/
+
+# MPLAB X private/local project settings (machine-specific)
+nbproject/private/
+nbproject/Makefile-local-*.mk
+nbproject/Package-*.bash
+nbproject/Makefile-genesis.properties
+
+# Compiled object files and dependency files
+*.o
+*.d
+*.p1
+*.pre
+*.sdb
+*.sym
+*.rlf
+*.cmf
+*.hxl
+*.map
+*.elf
+*.hex
+*.cof
+
+# MPLAB X IDE files
+*.mcp.bak
+*.xml.bak
+
+# Backup and original files
+*.bak
+*.orig
+
+# MCC autosave manifests
+mcc-manifest-autosave.yml
+
+# Python (helper scripts)
+helper/venv/
+helper/.venv/
+helper/__pycache__/
+helper/*.pyc
+helper/.vscode/
+helper/.timetracker
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux editor swap files
+*.swp
+*.swo
