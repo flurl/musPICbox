@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D8";"D_SOD-323_HandSoldering";1;"D_Zener 5.1V";;;
+2;"D5,D7,D6,D4";"D_SMA_Handsoldering";4;"D_Schottky";;;
+3;"D9";"LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100";1;"LED_ARGB";;;
+4;"C1";"CP_Elec_10x10.5";1;"1000µ";;;
+5;"BZ1";"JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical";1;"Buzzer";;;
+6;"R1";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"470";;;
+7;"C2";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"0.1µ";;;
+8;"M1";"JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical";1;"Motor_DC";;;
+9;"SW1";"JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical";1;"SW_Push";;;
+10;"U1";"DIP-20_W7.62mm";1;"PIC16F18346-P";;;
